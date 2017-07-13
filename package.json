@@ -1,6 +1,6 @@
 {
-  "name": "platzom",
-  "version": "0.1.0",
+  "name": "jhovanylinkinplatzom",
+  "version": "1.0.0",
   "description": "traductor de lenguaje Platzom, del curso de fundamentos de javascript",
   "main": "dist/src/platzom.js",
   "scripts": {
